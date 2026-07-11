@@ -20,5 +20,4 @@ elif(input3==2):
 elif(input3==3):
     cal.multiply(input1,input2)
 elif(input3==4):
-
     cal.divide(input1,input2)
